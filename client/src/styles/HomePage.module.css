@@ -1,0 +1,6 @@
+/* MEDIA QUERIES FOR HOME PAGE     */
+@media (max-width: 768px) {
+  .sidebar {
+    display: none !important;
+  }
+}

@@ -1,0 +1,15 @@
+.container {
+  max-width: 992px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#link {
+  color: #000;
+  font-weight: 700;
+}
+
+#link:hover {
+  text-decoration: underline;
+}

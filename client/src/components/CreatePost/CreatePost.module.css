@@ -1,0 +1,13 @@
+.modal {
+  padding: 0;
+  border-radius: 100px;
+}
+
+.modal input {
+  border: 0;
+  padding: 0;
+}
+
+.modal > div {
+  border-radius: 0 0 10px 10px;
+}

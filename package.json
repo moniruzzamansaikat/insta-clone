@@ -1,0 +1,28 @@
+{
+  "name": "restify-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.26.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.7",
+    "mongoose-timestamps": "^0.0.1",
+    "mongoose-unique-validator": "^2.0.3",
+    "multer": "^1.4.3",
+    "restify": "^8.5.1",
+    "restify-cors-middleware": "^1.1.1",
+    "restify-errors": "^8.0.2",
+    "restify-jwt-community": "^1.1.16",
+    "restify-multipart-body-parser": "^0.1.1",
+    "socket.io": "^4.1.3"
+  }
+}
